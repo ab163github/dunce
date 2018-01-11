@@ -16,7 +16,6 @@
     "hassankhan/config": "^0.11.2"
   },
   "minimum-stability": "dev",
-  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "Dunce\\":"src/"
